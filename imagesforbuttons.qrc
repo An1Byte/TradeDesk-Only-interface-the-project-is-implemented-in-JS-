@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ImageForButtons/absorCandle.png</file>
+        <file>ImageForButtons/correl.png</file>
+        <file>ImageForButtons/gip.png</file>
+        <file>ImageForButtons/lp3.png</file>
+        <file>ImageForButtons/lpAny.png</file>
+        <file>ImageForButtons/lpNone.png</file>
+        <file>ImageForButtons/molotCandle.png</file>
+        <file>ImageForButtons/starCandle.png</file>
+        <file>ImageForButtons/trend.png</file>
+        <file>ImageForButtons/absorCandle2.png</file>
+        <file>ImageForButtons/correl2.png</file>
+        <file>ImageForButtons/gip2.png</file>
+        <file>ImageForButtons/lp32.png</file>
+        <file>ImageForButtons/lpAny2.png</file>
+        <file>ImageForButtons/lpNone2.png</file>
+        <file>ImageForButtons/molotCandle2.png</file>
+        <file>ImageForButtons/starCandle2.png</file>
+        <file>ImageForButtons/trend2.png</file>
+        <file>ImageForButtons/changeTrend.png</file>
+        <file>ImageForButtons/changeTrend2.png</file>
+        <file>ImageForButtons/flags.png</file>
+        <file>ImageForButtons/flags2.png</file>
+        <file>ImageForButtons/flet.png</file>
+        <file>ImageForButtons/flet2.png</file>
+    </qresource>
+</RCC>

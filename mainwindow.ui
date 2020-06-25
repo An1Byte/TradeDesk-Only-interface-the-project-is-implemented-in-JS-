@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>405</width>
+    <height>302</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionshow_first_taskbar">
+   <property name="text">
+    <string>Connect</string>
+   </property>
+  </action>
+  <action name="actionshow_second_taskbar">
+   <property name="text">
+    <string>Disconnect</string>
+   </property>
+  </action>
+  <action name="actionShow_first_task_bar">
+   <property name="text">
+    <string>Show/Hide first task bar</string>
+   </property>
+  </action>
+  <action name="actionShow_second_task_bar">
+   <property name="text">
+    <string>Show/Hide second task bar</string>
+   </property>
+  </action>
+  <action name="actionShow_the_table_symbols">
+   <property name="text">
+    <string>Show/Hide the table symbols</string>
+   </property>
+  </action>
+  <action name="actionBlack_White_theme">
+   <property name="text">
+    <string>Black/White theme</string>
+   </property>
+  </action>
+  <action name="actionAbout_TradeDesk">
+   <property name="text">
+    <string>About TradeDesk</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionConnect">
+   <property name="text">
+    <string>Connect</string>
+   </property>
+  </action>
+  <action name="actionDisconnect">
+   <property name="text">
+    <string>Disconnect</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

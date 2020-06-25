@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bcground">
+        <file>bcground/bcground.jpg</file>
+    </qresource>
+</RCC>

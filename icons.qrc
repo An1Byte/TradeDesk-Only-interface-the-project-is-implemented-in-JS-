@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>IconsForProgramm/chat.png</file>
+        <file>IconsForProgramm/d1.png</file>
+        <file>IconsForProgramm/h1.png</file>
+        <file>IconsForProgramm/h4.png</file>
+        <file>IconsForProgramm/m1.png</file>
+        <file>IconsForProgramm/m5.png</file>
+        <file>IconsForProgramm/m15.png</file>
+        <file>IconsForProgramm/news.png</file>
+        <file>IconsForProgramm/sintetic.png</file>
+        <file>IconsForProgramm/volumeBar.png</file>
+        <file>IconsForProgramm/volumeCandle.png</file>
+        <file>IconsForProgramm/alarm.png</file>
+        <file>IconsForProgramm/bar.png</file>
+        <file>IconsForProgramm/barnew.png</file>
+        <file>IconsForProgramm/candle.png</file>
+        <file>IconsForProgramm/hline.png</file>
+        <file>IconsForProgramm/line.png</file>
+        <file>IconsForProgramm/opt.png</file>
+        <file>IconsForProgramm/parser.png</file>
+        <file>IconsForProgramm/Perecrestie.png</file>
+        <file>IconsForProgramm/text.png</file>
+        <file>IconsForProgramm/vline.png</file>
+        <file>IconsForProgramm/volume.png</file>
+        <file>IconsForProgramm/other.png</file>
+        <file>IconsForProgramm/Connect.png</file>
+        <file>IconsForProgramm/online.png</file>
+        <file>IconsForProgramm/fullScreen.png</file>
+        <file>IconsForProgramm/normalScreen.png</file>
+        <file>IconsForProgramm/actionSeparator.png</file>
+        <file>IconsForProgramm/arr.png</file>
+        <file>IconsForProgramm/download.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,51 @@
+*{
+	color : white;
+	}
+
+QToolButton:hover{
+	background : #0A002B;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #1F1AB2;
+	}
+	
+QToolBar {
+	background-color: rgba(100, 0, 0, 0);
+}
+
+QToolBar::separator {
+	image: url(:/icons/IconsForProgramm/actionSeparator.png);
+}
+	
+QMenu {
+	background-color: black;
+	}
+
+QMenuBar {
+	background-color: rgba(100, 0, 0, 0);
+	}
+	
+QToolTip {
+	color: white;
+	background-color: black;
+	border: none;
+	}
+	
+QMenuBar::item:selected {
+    color : white;
+    background: blue;
+    }
+     
+QMenu::item:selected {
+    color : white;
+    background: blue;
+    }
+	
+QStatusBar::item {
+	color: gray;
+	border: None;
+}
+
+QStatusBar QLabel{
+	border: 1px solid red;	
+}
